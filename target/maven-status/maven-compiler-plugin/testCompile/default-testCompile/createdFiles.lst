@@ -1,0 +1,9 @@
+com\netbankV1\testCases\TC_AddCustomer_003.class
+com\netbankV1\testCases\TC_LoginDDT_002.class
+com\netbankV1\utilities\ReadConfig.class
+com\netbankV1\testCases\TC_LoginPage_001.class
+com\netbankV1\utilities\Reporting.class
+com\netbankV1\testCases\BaseClass.class
+com\netbankV1\pageObjects\AddCustomerPage.class
+com\netbankV1\pageObjects\LoginPage.class
+com\netbankV1\utilities\XLUtils.class
